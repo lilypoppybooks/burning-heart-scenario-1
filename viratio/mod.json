@@ -1,0 +1,9 @@
+{
+	"name": "viratio",
+	"label": "Viratio Campaign",
+	"version": "1.0",
+	"url": "",
+	"description": "Viratio Campaign.",
+	"dependencies": ["0ad"],
+	"type": ""
+}
