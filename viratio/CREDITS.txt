@@ -11,7 +11,8 @@ Perzival12 — Programming and trigger implementation.
 Nicolaus_von_Kues — Human resources and idea sharing.
 
 Grautvornix — Post-Atlas and Mercator tools, which greatly facilitated development in Atlas.
-[link to Post-Atlas and Mercator]
+Post-Atlas : https://wildfiregames.com/forum/topic/169808-map-making-support-and-conversion-tool-post-atlas/page/3/#comment-763845
+Mercator : https://wildfiregames.com/forum/topic/169940-new-atlas-helper-tool-mercator
 
 Vantha — Iberian biome, shared before its official release.
 
