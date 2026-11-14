@@ -103,8 +103,13 @@ Circular map, 480 x 480 tiles (1920 x 1920 units). Viriathus starts on the west 
 | 2 | Silence of Iberia (credited "Silence of the Sun") | 0:20 | peace |
 | 3 | The Numantine Rises | 3:00 | battle |
 | 4 | Spirit of the Guerrilla | 1:00 | peace |
+| 5 | The_Calm_Before_the_Storm | 2:51 | peace |
+
 
 *The Numantine Rises* uses a sample of a Celtiberian trumpet from the [Museo Arqueológico Nacional](https://www.man.es/man/dam/jcr:67f6d69f-1de7-4323-be39-82f4b40a8a33/4-trompeta-celtiberica--marichalar-y-saenz-de-tejada.mp3) (Villar del Río, Soria; Marichalar y Sáez de Tejada Collection). Melody performed by Rubén Perelló Blanquer and María José Ucar, recorded and edited by Dr Raquel Jiménez Pasalodos, used with permission under CC BY-SA 3.0, and remixed by Felix Lahaie.
+
+
+*The_Calm_Before_the_Storm* was mixed by Felix Lahaie and uses "Antifona Terra Tremuit mIV.ogg" by user:grosasm, released into the public domain via Wikimedia Commons, as well as "Mirage.ogg" by Omri Lahav, taken from the 0 A.D. original soundtrack (https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/audio/music/Mirage.ogg), which is licensed under CC BY-SA 3.0.
 
 ## Project structure
 
