@@ -32,24 +32,26 @@ Remixed and mixed by Felix Lahaie (LilyPoppy).
 ----------------------------------------
 
 ----------------------------------------
-SAMPLE CREDITS — "The Calm Before the Storm"
+CREDITS — "The Calm Before the Storm"
 ----------------------------------------
 
-Original sources:
+"Celtiberian trumpet" — Museo Arqueológico Nacional (MAN)
+https://www.man.es/man/dam/jcr:67f6d69f-1de7-4323-be39-82f4b40a8a33/4-trompeta-celtiberica--marichalar-y-saenz-de-tejada.mp3
+Sample used with permission, under CC BY-SA 3.0,
+as confirmed by Dr Raquel Jiménez Pasalodos.
+
 "Antifona Terra Tremuit mIV.ogg" — user:grosasm
 https://commons.wikimedia.org/wiki/File:Antifona_Terra_Tremuit_mIV.ogg
 Public domain, via Wikimedia Commons.
 
-"Mirage.ogg" — Omri Lahav
+"Mirage.ogg" — Omri Lahav (0 A.D. soundtrack)
 https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/audio/music/Mirage.ogg
-From the 0 A.D. original soundtrack.
 Licensed under CC BY-SA 3.0
 (https://creativecommons.org/licenses/by-sa/3.0/).
 
 This remix is licensed under CC BY-SA 3.0.
 
 Remixed and mixed by Felix Lahaie (LilyPoppy).
-
 ----------------------------------------
 
 You are free to share and adapt this music,
