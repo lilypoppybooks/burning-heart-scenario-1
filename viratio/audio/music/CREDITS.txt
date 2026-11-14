@@ -43,7 +43,9 @@ Public domain, via Wikimedia Commons.
 "Mirage.ogg" — Omri Lahav
 https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/audio/music/Mirage.ogg
 From the 0 A.D. original soundtrack.
-Licensed under CC BY-SA 3.0.
+Licensed under CC BY-SA 3.0
+(https://creativecommons.org/licenses/by-sa/3.0/).
+
 This remix is licensed under CC BY-SA 3.0.
 
 Remixed and mixed by Felix Lahaie (LilyPoppy).
